@@ -1,3 +1,12 @@
-This is where Alex Ocampo's audio narrative will live :)
+<h1>Stealing the Sanguine Fang</h1>
+<h2>By Alexander Ocampo</h2>
 
-My audio narrative intends to take the listener through the planning meeting of a heist. The narrative will set the scene of a secret meeting, and as the leader of the team begins to describe the plan the soundscape will transition into the real-time actions of the heist. Each step of the plan will be narrated by the leader, and then followed by the accompanying sounds of it getting done. The target of the heist is to steal a medieval dagger, named the Sanguine Fang, from a museum.
+*Stealing the Sanguine Fang* takes listeners through the heist plans to steal a medieval dagger from a museum. As the team's leader—an esteemed speaker and academic—describes the plan to his crew one last time, the audience is taken into the real-time events of their big day. Can the team pull it off? Or will their plans be cut short? Listen to find out!
+
+This project was created for the University of Pittsburgh's Composing Digital Media class of Spring 2022.
+
+
+<h2>Quick Access</h2>
+
+* [Listen to the Soundscape](https://github.com/alocampo/soundscape2022spring/blob/master/stealingthesanguinefang.mp3)
+* [View Credits](https://github.com/alocampo/soundscape2022spring/blob/master/assets.md)
